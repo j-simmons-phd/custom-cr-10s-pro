@@ -19,4 +19,15 @@ My current 3D printer, a Creality CR-10S Pro (somewhat modified from stock).
 	
 ### SuperSlicer General Profile (PETG)
 
-TBD
+- See profiles/SuperSlicer_General_PETG_config_bundle.ini (I have lost track of the full pedigress of these profiles, apologies to whomever posted the originals)
+- My updates
+	- Temperatures to account for PEX build surface
+	- Infill settings (30% density and Gyroid pattern to prevent print head from knocking the part off of the build plate)
+
+## Physical Modifications
+
+### Wham Bam Systems Flexible Build System
+
+- [Flexible Build System](https://whambamsystems.com/flexible-build-system) 
+- Using PEX Build Surface, [FAQ](https://whambamsystems.com/blog/f/build-surface-differences-settings-tips-and-maintenance) contains info on bed temperatures for different materials on the PEX build surface.
+
