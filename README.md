@@ -16,7 +16,7 @@ My current 3D printer, a Creality CR-10S Pro (somewhat modified from stock).
 - My updates
     - Add generation of supports (hollow to minimize stresses when removing them)
 	- Adding rafts to ensure adhesion when printing multiple minis at the same time (WIP)
-	
+
 ### SuperSlicer General Profile (PETG)
 
 - See profiles/SuperSlicer_General_PETG_config_bundle.ini (I have lost track of the full pedigress of these profiles, apologies to whomever posted the originals)
@@ -28,6 +28,10 @@ My current 3D printer, a Creality CR-10S Pro (somewhat modified from stock).
 
 ### Wham Bam Systems Flexible Build System
 
-- [Flexible Build System](https://whambamsystems.com/flexible-build-system) 
+- [Flexible Build System](https://whambamsystems.com/flexible-build-system)
 - Using PEX Build Surface, [FAQ](https://whambamsystems.com/blog/f/build-surface-differences-settings-tips-and-maintenance) contains info on bed temperatures for different materials on the PEX build surface.
 
+### Z axis (T8 Anti-Backlash Nuts)
+
+- [BIQU T8 Anti Backlash Spring Loaded Nut](https://www.amazon.com/gp/product/B06XCCDD51)
+- [Installation Video](https://www.youtube.com/watch?v=hG8X26UtLVw)
